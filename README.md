@@ -26,7 +26,7 @@
 # GitHub520 Host Start
 140.82.113.4                  alive.github.com
 140.82.113.4                  live.github.com
-54.242.122.76                 github.githubassets.com
+3.236.138.137                 github.githubassets.com
 140.82.113.4                  central.github.com
 140.82.112.4                  desktop.githubusercontent.com
 140.82.113.4                  assets-cdn.github.com
@@ -58,13 +58,13 @@
 140.82.112.4                  media.githubusercontent.com
 
 
-# Update time: 2022-08-13T16:29:08+08:00
+# Update time: 2022-08-13T18:25:38+08:00
 # Star me GitHub url: https://github.com/521xueweihan/GitHub520
 # GitHub520 Host End
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2022-08-13T16:29:08+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2022-08-13T18:25:38+08:00（内容无变动不会更新）
 
 - 文件：`https://raw.fastgit.org/521xueweihan/GitHub520/main/hosts`
 - JSON：`https://raw.fastgit.org/521xueweihan/GitHub520/main/hosts.json`
