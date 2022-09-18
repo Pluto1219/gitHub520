@@ -26,27 +26,27 @@
 # GitHub520 Host Start
 140.82.114.4                  alive.github.com
 140.82.114.4                  live.github.com
-34.239.134.175                github.githubassets.com
+3.237.8.210                   github.githubassets.com
 140.82.114.4                  central.github.com
-107.21.164.41                 desktop.githubusercontent.com
+34.204.10.142                 desktop.githubusercontent.com
 140.82.114.4                  assets-cdn.github.com
-75.101.235.148                camo.githubusercontent.com
+34.204.10.142                 camo.githubusercontent.com
 151.101.1.6                   github.map.fastly.net
 151.101.1.6                   github.global.ssl.fastly.net
 140.82.114.4                  gist.github.com
 185.199.108.153               github.io
 140.82.114.4                  github.com
 140.82.114.4                  api.github.com
-54.234.132.95                 raw.githubusercontent.com
-3.238.152.18                  user-images.githubusercontent.com
-44.195.77.151                 favicons.githubusercontent.com
-3.238.199.76                  avatars5.githubusercontent.com
-18.207.93.30                  avatars4.githubusercontent.com
-23.20.184.169                 avatars3.githubusercontent.com
-3.238.152.18                  avatars2.githubusercontent.com
-3.237.15.92                   avatars1.githubusercontent.com
-44.205.13.29                  avatars0.githubusercontent.com
-34.204.10.142                 avatars.githubusercontent.com
+18.206.48.157                 raw.githubusercontent.com
+18.206.48.157                 user-images.githubusercontent.com
+44.200.23.237                 favicons.githubusercontent.com
+50.17.57.62                   avatars5.githubusercontent.com
+54.174.245.207                avatars4.githubusercontent.com
+3.236.46.207                  avatars3.githubusercontent.com
+52.71.62.50                   avatars2.githubusercontent.com
+54.158.225.91                 avatars1.githubusercontent.com
+54.224.49.85                  avatars0.githubusercontent.com
+44.200.219.157                avatars.githubusercontent.com
 140.82.114.4                  codeload.github.com
 72.21.206.80                  github-cloud.s3.amazonaws.com
 72.21.206.80                  github-com.s3.amazonaws.com
@@ -55,16 +55,16 @@
 72.21.206.80                  github-production-repository-file-5c1aeb.s3.amazonaws.com
 185.199.108.153               githubstatus.com
 140.82.114.18                 github.community
-54.157.111.171                media.githubusercontent.com
+23.20.184.169                 media.githubusercontent.com
 
 
-# Update time: 2022-09-18T06:25:24+08:00
+# Update time: 2022-09-18T10:56:43+08:00
 # Star me GitHub url: https://github.com/521xueweihan/GitHub520
 # GitHub520 Host End
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2022-09-18T06:25:24+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2022-09-18T10:56:43+08:00（内容无变动不会更新）
 
 - 文件：`https://raw.fastgit.org/521xueweihan/GitHub520/main/hosts`
 - JSON：`https://raw.fastgit.org/521xueweihan/GitHub520/main/hosts.json`
