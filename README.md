@@ -25,25 +25,26 @@
 ```bash
 # GitHub520 Host Start
 140.82.113.4                  alive.github.com
-54.84.221.114                 github.githubassets.com
-54.81.84.168                  desktop.githubusercontent.com
-3.93.34.177                   camo.githubusercontent.com
+3.91.32.232                   github.githubassets.com
+44.202.183.19                 desktop.githubusercontent.com
+52.87.142.248                 camo.githubusercontent.com
 151.101.1.6                   github.map.fastly.net
 185.199.108.153               github.io
-54.166.205.89                 raw.githubusercontent.com
-140.82.113.4                  codeload.github.com
+140.82.113.4                  github.com
+3.236.133.132                 raw.githubusercontent.com
 72.21.206.80                  github-cloud.s3.amazonaws.com
 185.199.108.153               githubstatus.com
 140.82.112.18                 github.community
+52.4.96.71                    media.githubusercontent.com
 
 
-# Update time: 2022-11-14T14:32:37+08:00
+# Update time: 2022-11-14T16:33:58+08:00
 # Star me GitHub url: https://github.com/521xueweihan/GitHub520
 # GitHub520 Host End
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2022-11-14T14:32:37+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2022-11-14T16:33:58+08:00（内容无变动不会更新）
 
 - 文件：`https://raw.fastgit.org/521xueweihan/GitHub520/main/hosts`
 - JSON：`https://raw.fastgit.org/521xueweihan/GitHub520/main/hosts.json`
